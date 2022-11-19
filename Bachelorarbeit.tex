@@ -203,13 +203,27 @@ Hallo meine Freunde.
 \subsection{ISO Barrel 18497}
 \label{subsec_iso}
 
+Die ISO Norm 18497 beschreibt die Sicherheitsanforderungen an autonome Maschinen im Feldeinsatz in der Landwirtschaft. In ihr ist ein standardisiertes Hindernis definiert, welches als ISO Barrel 18497 gekennzeichnet ist und von dem Algorithmus erkennt werden muss. In Abbildung \ref{fig:isoBarrel} sind die genauen Maße dieses Objekts dargestellt. \\
+
 \begin{figure}[h]
 	\centering
 	\def\svgwidth{0.6\columnwidth}
 	\import{Abbildungen/}{isoBarrel_Maße.pdf_tex}
-	\caption{Maße eines ISO Barrel 18497}
+	\caption{Maße des ISO Barrel 18497}
 	\label{fig:isoBarrel}
 \end{figure}
+
+Um den Härtefall im landwirtschaftlichen Betrieb darzustellen wird das ISO Barrel grün angemalt. Das beruht auf dem Hintergedanken, dass die Pflanzen ebenfalls meist grün sind und es somit dem Algorithmus schwer gemacht werden soll das ISO Barrel als solches zu erkennen. Abbildung \ref{fig:isoBarrelBsp} zeigt beispielhaft den angesprochenen Fall im Feldeinsatz. \\
+
+\begin{figure}[h]
+	\centering
+	\def\svgwidth{0.8\columnwidth}
+	\import{Abbildungen/}{isoBarrel_Bsp.pdf_tex}
+	\caption{ISO Barrel 18497 inmitten Gräser auf dem Feld}
+	\label{fig:isoBarrelBsp}
+\end{figure}
+
+Dieses Erkennbarkeit dieses Objektes stellt somit die Grundlage der zu bewertenden Algorithmen aus Kapitel \ref{cha:algorithmen} dar.
 
 \section{Sensorik}
 \label{sec_sensorik}
