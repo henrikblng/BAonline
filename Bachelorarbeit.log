@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  20 NOV 2022 00:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  20 NOV 2022 00:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2037,7 +2037,7 @@ Package logreq Info: Writing requests to 'Bachelorarbeit.run.xml'.
 Here is how much of TeX's memory you used:
  41428 strings out of 475385
  852413 string characters out of 2776434
- 1704971 words of memory out of 3000000
+ 1704958 words of memory out of 3000000
  62053 multiletter control sequences out of 15000+600000
  532298 words of font info for 74 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -2062,7 +2062,7 @@ i12.pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
 ro12.pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 mssbx10.pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
 m/lmsy10.pfb>
-Output written on Bachelorarbeit.pdf (24 pages, 1276047 bytes).
+Output written on Bachelorarbeit.pdf (24 pages, 1276030 bytes).
 PDF statistics:
  528 PDF objects out of 1000 (max. 8388607)
  73 named destinations out of 1000 (max. 500000)
