@@ -192,7 +192,9 @@ maximal eine Seite, i.d.R. in englischer Sprache verfasst
 \mainmatter
 \chapter{Einleitung}
 \label{cha:einleitung}
-Hallo meine Freunde.
+
+Durch eine stetig anwachsende Weltbevölkerung und aufgrund des anthropogenen Klimawandels steigen die Anforderungen an die Landwirtschaft. Die Bewirtschaftung von schrumpfenden landwirtschaftlichen Flächen muss effizienter gestaltet werden, damit die Versorgung aufrecht erhalten werden kann. Durch eine Umstellung auf nachhaltige und ressourcenschonende landwirtschaftliche Betriebe, kann die Herausforderung bewerkstelligt werden. Ein grundlegender Schritt ist hierbei der Einsatz von autonomen Maschinen, welche mittels Künstlicher Intelligenz betrieben werden. \\
+Insbesondere Drohnen dienen hierbei der Überwachung aus der Luft, sowohl zum Wohl der Pflanzen, als auch zur Erkennung von Gefahren für Mensch und Tier. Um diese Dinge zu erkennen werden Algorithmen zur Objekterkennung verwendet, welche im Folgendem auf ihre Eignung in der landwirtschaftlichen Umgebung geprüft werden.
 
 \chapter{Stand der Technik}
 \label{cha:sdT}
@@ -203,30 +205,32 @@ Hallo meine Freunde.
 \subsection{ISO Barrel 18497}
 \label{subsec_iso}
 
-Die ISO Norm 18497 beschreibt die Sicherheitsanforderungen an autonome Maschinen im Feldeinsatz in der Landwirtschaft. In ihr ist ein standardisiertes Hindernis definiert, welches als ISO Barrel 18497 gekennzeichnet ist und von dem Algorithmus erkennt werden muss. In Abbildung \ref{fig:isoBarrel} sind die genauen Maße dieses Objekts dargestellt. \\
+Die \ac{iso} Norm 18497 beschreibt die Sicherheitsanforderungen an autonome Maschinen im Feldeinsatz in der Landwirtschaft. In ihr ist ein standardisiertes Hindernis definiert, welches als \ac{iso} Barrel 18497 gekennzeichnet ist und von dem Algorithmus erkannt werden muss. In Abbildung \ref{fig:isoBarrel} sind die genauen Maße dieses Objekts dargestellt. \\
 
 \begin{figure}[h]
 	\centering
 	\def\svgwidth{0.6\columnwidth}
 	\import{Abbildungen/}{isoBarrel_Maße.pdf_tex}
-	\caption{Maße des ISO Barrel 18497}
+	\caption{Maße des \ac{iso} Barrel 18497}
 	\label{fig:isoBarrel}
 \end{figure}
 
-Um den Härtefall im landwirtschaftlichen Betrieb darzustellen wird das ISO Barrel grün angemalt. Das beruht auf dem Hintergedanken, dass die Pflanzen ebenfalls meist grün sind und es somit dem Algorithmus schwer gemacht werden soll das ISO Barrel als solches zu erkennen. Abbildung \ref{fig:isoBarrelBsp} zeigt beispielhaft den angesprochenen Fall im Feldeinsatz. \\
+Um den Härtefall im landwirtschaftlichen Betrieb darzustellen wird das \ac{iso} Barrel grün angemalt. Das beruht auf dem Hintergedanken, dass die landwirtschaftliche Umgebung ebenfalls meist grün ist und es somit dem Algorithmus schwer gemacht werden soll das \ac{iso} Barrel als solches zu erkennen. Abbildung \ref{fig:isoBarrelBsp} zeigt beispielhaft den angesprochenen Fall im Feldeinsatz. \\
 
 \begin{figure}[h]
 	\centering
 	\def\svgwidth{0.8\columnwidth}
 	\import{Abbildungen/}{isoBarrel_Bsp.pdf_tex}
-	\caption{ISO Barrel 18497 inmitten Gräser}
+	\caption{Rot umrandetes \ac{iso} Barrel 18497 inmitten Gräser}
 	\label{fig:isoBarrelBsp}
 \end{figure}
 
-Dieses Erkennbarkeit dieses Objektes stellt somit die Grundlage der zu bewertenden Algorithmen aus Kapitel \ref{cha:algorithmen} dar.
+Die Erkennbarkeit dieses Objektes stellt somit die grundlegende Bedingung der zu bewertenden Algorithmen aus Kapitel \ref{cha:algorithmen} dar.
 
 \section{Sensorik}
 \label{sec_sensorik}
+
+Zum Einsatz bei der Objekterkennung mittels Algorithmen werden meist \ac{lidar}- und \ac{rgb}-Sensoren, sowie auch Multispektralkameras verwendet. Wobei letztere eher selten zum Einsatz kommen.
 
 \section{Künstliche Intelligenz}
 \label{sec_ki}
@@ -241,8 +245,11 @@ Dieses Erkennbarkeit dieses Objektes stellt somit die Grundlage der zu bewertend
 \label{subsec_cnn}
 
 
+
 \chapter{Algorithmen}
 \label{cha:algorithmen}
+
+
 
 \section{YOLO-Algorithmus}
 \label{sec_yolo}
@@ -266,8 +273,11 @@ Dieses Erkennbarkeit dieses Objektes stellt somit die Grundlage der zu bewertend
 \label{sec_ssd}
 
 
+
 \chapter{Bewertungskriterien}
 \label{cha:bewertungskriterien} 
+
+
 
 \section{Detektionsgeschwindigkeit}
 \label{sec_detgeschw}
@@ -286,29 +296,31 @@ Dieses Erkennbarkeit dieses Objektes stellt somit die Grundlage der zu bewertend
 \label{cha:auswertung}
 
 
+
 \chapter{Fazit}
 \label{cha:fazit}
-Bitte das Dokument "Leitfaden zur Erstellung studentischer Arbeiten am IMN" beachten, das sich im Anhang \ref{sec_Leitfaden} befindet. Dabei ist insbesondere zu berücksichtigen, dass am Ende der Bearbeitungszeit drei verschiedene gedruckte Versionen abzugeben sind.
+
+
 
 \section{Citation}
 \label{sec_citation}
+
 The citation is the foundation of scientific work. This template uses a .bib library which is included as \textbf{referenzen.bib} in the header. You can see the file in the directory. I recommend \textit{CITAVI} for Literature collection.
 In the \textbf{.bib} every entry has its unique name, e.g. \textbf{Winner.2017b}. Cite with the commant \cite{Winner.2017b}
 The .bib can contain unused entries which wont be plotted in the bibliography.
 
 \section{Acronyms}
 \label{sec_acronyms}
-Autommated documentation of acronyms.
+
 First use of acronyms are the declaration \ac{catiaV5}.  \\
 second use is short \ac{catiaV5} \\
 If you declare a acronym but use it only once, it will only be the long form without short declaration. \ac{imn} 
 
 \ac{imn} and the german Genitiv des \acp{imn}
 
-Der \ac{yolo} Algorithmus.
-
 \section{Equations}
 \label{sec_Equations}
+
 Some fancy special math textlayouts \scFt.
 
 Die Kraft~$\ve{F} = \nicefrac{P}{v}$ berechnet sich zu
@@ -324,9 +336,10 @@ Gemäß~\ref{gl:Fdef} gilt
 
 \section{Tables}
 \label{sec:tables}
+
 The placement of the tables follows the same rules as described for the figures before
 
-\begin{table}
+\begin{table}[h]
 	\caption{Tabellenüberschrift}
 	\label{tab_ExampleTable}
 	\centering

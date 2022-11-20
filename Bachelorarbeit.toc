@@ -8,30 +8,30 @@
 \contentsline {section}{\numberline {2.1}Landwirtschaft}{2}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}ISO Barrel 18497}{2}{subsection.2.1.1}%
 \contentsline {section}{\numberline {2.2}Sensorik}{3}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Künstliche Intelligenz}{3}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Machine Learning}{3}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Deep Learning}{3}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Convolutional Neural Network}{3}{subsection.2.3.3}%
-\contentsline {chapter}{\numberline {3}Algorithmen}{4}{chapter.3}%
-\contentsline {section}{\numberline {3.1}YOLO-Algorithmus}{4}{section.3.1}%
-\contentsline {section}{\numberline {3.2}R-CNN-Algorithmen}{4}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}R-CNN}{4}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Fast R-CNN}{4}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Faster R-CNN}{4}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Mask R-CNN}{4}{subsection.3.2.4}%
-\contentsline {section}{\numberline {3.3}Single shot Detection}{4}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Bewertungskriterien}{5}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Detektionsgeschwindigkeit}{5}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Detektionsgenauigkeit}{5}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Speicherplatz}{5}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Fehleranfälligkeit}{5}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Auswertung der Kriterien}{6}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Fazit}{7}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Citation}{7}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Acronyms}{7}{section.6.2}%
+\contentsline {section}{\numberline {2.3}Künstliche Intelligenz}{4}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Machine Learning}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Deep Learning}{4}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Convolutional Neural Network}{4}{subsection.2.3.3}%
+\contentsline {chapter}{\numberline {3}Algorithmen}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}YOLO-Algorithmus}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}R-CNN-Algorithmen}{5}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}R-CNN}{5}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Fast R-CNN}{5}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Faster R-CNN}{5}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Mask R-CNN}{5}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Single shot Detection}{5}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Bewertungskriterien}{6}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Detektionsgeschwindigkeit}{6}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Detektionsgenauigkeit}{6}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Speicherplatz}{6}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Fehleranfälligkeit}{6}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Auswertung der Kriterien}{7}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Fazit}{8}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Citation}{8}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Acronyms}{8}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Equations}{8}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Tables}{8}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Figures}{8}{section.6.5}%
+\contentsline {section}{\numberline {6.4}Tables}{9}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Figures}{9}{section.6.5}%
 \contentsline {chapter}{\numberline {A}Anhang}{i}{appendix.A}%
 \contentsline {section}{\numberline {A.1}Leitfaden zur Erstellung studentischer Arbeiten am IMN}{i}{section.A.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

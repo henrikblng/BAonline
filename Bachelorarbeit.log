@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  20 NOV 2022 00:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  20 NOV 2022 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1323,6 +1323,9 @@ Loading module `upgrade' ...
 \c@g@acro@imn@int=\count477
 \c@g@acro@catiaV5@int=\count478
 \c@g@acro@yolo@int=\count479
+\c@g@acro@iso@int=\count480
+\c@g@acro@lidar@int=\count481
+\c@g@acro@rgb@int=\count482
 )
 (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
@@ -1343,8 +1346,8 @@ o.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
 \@linkdim=\dimen314
-\Hy@linkcounter=\count480
-\Hy@pagecounter=\count481
+\Hy@linkcounter=\count483
+\Hy@pagecounter=\count484
 
 (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
@@ -1358,7 +1361,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 y
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count482
+\Hy@SavedSpaceFactor=\count485
  (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -1373,7 +1376,7 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count483
+\c@Hy@tempcnt=\count486
 LaTeX Info: Redefining \url on input line 4748.
 \XeTeXLinkMargin=\dimen315
 (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -1384,7 +1387,7 @@ c.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count484
+\Fld@menulength=\count487
 \Field@Width=\dimen316
 \Fld@charsize=\dimen317
 Package hyperref Info: Hyper figures OFF on input line 6027.
@@ -1399,9 +1402,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count485
-\c@Item=\count486
-\c@Hfootnote=\count487
+\Hy@abspage=\count488
+\c@Item=\count489
+\c@Hfootnote=\count490
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -1412,8 +1415,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count488
-\c@bookmark@seq@number=\count489
+\Fld@listcount=\count491
+\c@bookmark@seq@number=\count492
 
 (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
 lecheck.sty
@@ -1529,16 +1532,16 @@ Package biblatex Info: Reference segment=0 on input line 157.
 (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count490
+\scratchcounter=\count493
 \scratchdimen=\dimen318
 \scratchbox=\box121
-\nofMPsegments=\count491
-\nofMParguments=\count492
+\nofMPsegments=\count494
+\nofMParguments=\count495
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count493
+\MPscratchCnt=\count496
 \MPscratchDim=\dimen319
-\MPnumerator=\count494
-\makeMPintoPDFobject=\count495
+\MPnumerator=\count497
+\makeMPintoPDFobject=\count498
 \everyMPtoPDFconversion=\toks45
 )
 (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
@@ -1596,7 +1599,7 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 (C:\Users\Henrik\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.de
 f
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count496
+\BKM@id=\count499
 ))
 
 pdfTeX warning: pdflatex (file ./Bullinger_Deckblatt.pdf): PDF inclusion: found
@@ -1768,26 +1771,26 @@ chapter 1.
 ]
 chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 
  []
 
 (Abbildungen/isoBarrel_Maße.pdf_tex
-<Abbildungen//isoBarrel_Maße.pdf, id=176, page=1, 506.9915pt x 488.63333pt>
+<Abbildungen//isoBarrel_Maße.pdf, id=183, page=1, 506.9915pt x 488.63333pt>
 File: Abbildungen//isoBarrel_Maße.pdf Graphic file (type pdf)
 <use Abbildungen//isoBarrel_Maße.pdf, page 1>
 Package pdftex.def Info: Abbildungen//isoBarrel_Maße.pdf , page1 used on input
  line 56.
 (pdftex.def)             Requested size: 250.95476pt x 241.86305pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
 [2
 
  <./Abbildungen//isoBarrel_Maße.pdf>] (Abbildungen/isoBarrel_Bsp.pdf_tex
-<Abbildungen//isoBarrel_Bsp.pdf, id=186, page=1, 355.23607pt x 225.15666pt>
+<Abbildungen//isoBarrel_Bsp.pdf, id=197, page=1, 355.23607pt x 225.15666pt>
 File: Abbildungen//isoBarrel_Bsp.pdf Graphic file (type pdf)
 <use Abbildungen//isoBarrel_Bsp.pdf, page 1>
 Package pdftex.def Info: Abbildungen//isoBarrel_Bsp.pdf , page1 used on input l
@@ -1798,32 +1801,30 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
 [3 <./Abbildungen//isoBarrel_Bsp.pdf>]
-chapter 3.
-[4
+Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
-]
-chapter 4.
+
+[4]
+chapter 3.
 [5
 
 ]
-chapter 5.
+chapter 4.
 [6
+
+]
+chapter 5.
+[7
 
 ]
 chapter 6.
 
-Overfull \hbox (27.60892pt too wide) in paragraph at lines 291--292
-\T1/lmr/m/n/12 Bitte das Do-ku-ment "Leit-fa-den zur Er-stel-lung stu-den-ti-sc
-her Ar-bei-ten am IMN"beachten,
- []
+LaTeX Warning: Citation 'Winner.2017b' on page 8 undefined on input line 309.
 
-
-LaTeX Warning: Citation 'Winner.2017b' on page 7 undefined on input line 296.
-
-[7
+[8
 
 ] (AbbEinleitung/peter.pdf_tex
-<AbbEinleitung//peter.pdf, id=223, page=1, 284.52756pt x 284.52756pt>
+<AbbEinleitung//peter.pdf, id=243, page=1, 284.52756pt x 284.52756pt>
 File: AbbEinleitung//peter.pdf Graphic file (type pdf)
 <use AbbEinleitung//peter.pdf, page 1>
 Package pdftex.def Info: AbbEinleitung//peter.pdf , page1 used on input line 56
@@ -1837,30 +1838,30 @@ Package pdftex.def Info: AbbEinleitung//peter.pdf , page1 used on input line 56
 (pdftex.def)             Requested size: 200.75996pt x 200.76561pt.
 )
 
-LaTeX Warning: Empty bibliography on input line 365.
+LaTeX Warning: Empty bibliography on input line 378.
 
 
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[8]
+[9]
 Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 
 
-[9 <./AbbEinleitung//peter.pdf>]
+[10 <./AbbEinleitung//peter.pdf>]
 chapter A.
 
 
 pdfTeX warning: pdflatex (file ./Leitfaden-Erstellung-studentischer-Arbeiten-IM
 N_Version-3.1.pdf): PDF inclusion: found PDF version <1.7>, but at most version
  <1.5> allowed
-<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=243, 597.5
+<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=261, 597.5
 5246pt x 845.07718pt>
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf  used on input line 376.
+n-3.1.pdf  used on input line 389.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -1871,7 +1872,7 @@ File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf  used on input line 376.
+n-3.1.pdf  used on input line 389.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -1883,19 +1884,19 @@ N_Version-3.1.pdf): PDF inclusion: found PDF version <1.7>, but at most version
 pdfTeX warning: pdflatex (file ./Leitfaden-Erstellung-studentischer-Arbeiten-IM
 N_Version-3.1.pdf): PDF inclusion: found PDF version <1.7>, but at most version
  <1.5> allowed
-<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=246, page=
+<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=264, page=
 1, 597.55246pt x 845.07718pt>
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 1>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page1 used on input line 376.
+n-3.1.pdf , page1 used on input line 389.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 1>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page1 used on input line 376.
+n-3.1.pdf , page1 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 [1
 
@@ -1904,119 +1905,119 @@ File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 1>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page1 used on input line 376.
+n-3.1.pdf , page1 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 1>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page1 used on input line 376.
+n-3.1.pdf , page1 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 1>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page1 used on input line 376.
+n-3.1.pdf , page1 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
  [2 <./Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf>]
 
 pdfTeX warning: pdflatex (file ./Leitfaden-Erstellung-studentischer-Arbeiten-IM
 N_Version-3.1.pdf): PDF inclusion: found PDF version <1.7>, but at most version
  <1.5> allowed
-<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=299, page=
+<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=316, page=
 2, 597.55246pt x 845.07718pt>
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 2>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page2 used on input line 376.
+n-3.1.pdf , page2 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 2>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page2 used on input line 376.
+n-3.1.pdf , page2 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 2>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page2 used on input line 376.
+n-3.1.pdf , page2 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 [3 <./Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf>]
 
 pdfTeX warning: pdflatex (file ./Leitfaden-Erstellung-studentischer-Arbeiten-IM
 N_Version-3.1.pdf): PDF inclusion: found PDF version <1.7>, but at most version
  <1.5> allowed
-<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=305, page=
+<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=322, page=
 3, 597.55246pt x 845.07718pt>
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 3>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page3 used on input line 376.
+n-3.1.pdf , page3 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 3>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page3 used on input line 376.
+n-3.1.pdf , page3 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 3>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page3 used on input line 376.
+n-3.1.pdf , page3 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 [4 <./Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf>]
 
 pdfTeX warning: pdflatex (file ./Leitfaden-Erstellung-studentischer-Arbeiten-IM
 N_Version-3.1.pdf): PDF inclusion: found PDF version <1.7>, but at most version
  <1.5> allowed
-<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=311, page=
+<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=328, page=
 4, 597.55246pt x 845.07718pt>
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 4>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page4 used on input line 376.
+n-3.1.pdf , page4 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 4>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page4 used on input line 376.
+n-3.1.pdf , page4 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 4>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page4 used on input line 376.
+n-3.1.pdf , page4 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 [5 <./Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf>]
 
 pdfTeX warning: pdflatex (file ./Leitfaden-Erstellung-studentischer-Arbeiten-IM
 N_Version-3.1.pdf): PDF inclusion: found PDF version <1.7>, but at most version
  <1.5> allowed
-<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=336, page=
+<Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, id=353, page=
 5, 597.55246pt x 845.07718pt>
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 5>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page5 used on input line 376.
+n-3.1.pdf , page5 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 5>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page5 used on input line 376.
+n-3.1.pdf , page5 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf Graphic f
 ile (type pdf)
 <use Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf, page 5>
 Package pdftex.def Info: Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Versio
-n-3.1.pdf , page5 used on input line 376.
+n-3.1.pdf , page5 used on input line 389.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 [6 <./Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1.pdf>]
 (Bachelorarbeit.aux)
@@ -2035,11 +2036,11 @@ Package logreq Info: Writing requests to 'Bachelorarbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41428 strings out of 475385
- 852413 string characters out of 2776434
- 1704958 words of memory out of 3000000
- 62053 multiletter control sequences out of 15000+600000
- 532298 words of font info for 74 fonts, out of 8000000 for 9000
+ 41718 strings out of 475385
+ 864742 string characters out of 2776434
+ 1709976 words of memory out of 3000000
+ 62340 multiletter control sequences out of 15000+600000
+ 533202 words of font info for 77 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,17n,106p,10611b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{
@@ -2062,9 +2063,9 @@ i12.pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
 ro12.pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 mssbx10.pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
 m/lmsy10.pfb>
-Output written on Bachelorarbeit.pdf (24 pages, 1276030 bytes).
+Output written on Bachelorarbeit.pdf (25 pages, 1284590 bytes).
 PDF statistics:
- 528 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
+ 546 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
  360 words of extra memory for PDF output out of 10000 (max. 10000000)
 
