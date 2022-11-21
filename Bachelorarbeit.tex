@@ -207,7 +207,7 @@ LW
 \subsection{ISO Barrel 18497}
 \label{subsec_iso}
 
-Die \ac{iso} Norm 18497 beschreibt die Sicherheitsanforderungen an autonome Maschinen im Feldeinsatz in landwirtschaftlichen Umgebungen. In ihr ist ein standardisiertes Hindernis definiert, welches als \ac{iso} Barrel 18497 gekennzeichnet ist und von den Objekterkennungsalgorithmen erkannt werden muss. In Abbildung \ref{fig:isoBarrel} sind die genauen Maße dieses Objekts dargestellt. \\
+Die \ac{iso} Norm 18497 beschreibt die Sicherheitsanforderungen an autonome Maschinen im Feldeinsatz in landwirtschaftlichen Umgebungen. In ihr ist ein standardisiertes Prüfhindernis definiert, welches als \ac{iso} Barrel 18497 gekennzeichnet ist und von den Objekterkennungsalgorithmen erkannt werden muss. In Abbildung \ref{fig:isoBarrel} sind die genauen Maße dieses Objekts dargestellt. \\
 
 \begin{figure}[h]
 	\centering
@@ -217,7 +217,7 @@ Die \ac{iso} Norm 18497 beschreibt die Sicherheitsanforderungen an autonome Masc
 	\label{fig:isoBarrel}
 \end{figure}
 
-Um den Härtefall im landwirtschaftlichen Betrieb darzustellen wird das \ac{iso} Barrel in grün hergestellt. Das beruht auf dem Hintergedanken, dass die landwirtschaftliche Umgebung ebenfalls meist grün ist und es somit dem Algorithmus schwer gemacht werden soll das \ac{iso} Barrel als solches zu erkennen. Abbildung \ref{fig:isoBarrelBsp} zeigt beispielhaft den angesprochenen Fall im Feldeinsatz. \\
+Um den Härtefall im landwirtschaftlichen Betrieb darzustellen wird das \ac{iso} Barrel in einem grünen Ton hergestellt. Das beruht auf dem Hintergedanken, dass die landwirtschaftliche Umgebung ebenfalls meist grün ist und es somit dem Algorithmus schwer gemacht werden soll das \ac{iso} Barrel als solches zu erkennen. Abbildung \ref{fig:isoBarrelBsp} zeigt beispielhaft den angesprochenen Fall im Feldeinsatz. \\
 
 \begin{figure}[h]
 	\centering
@@ -227,7 +227,7 @@ Um den Härtefall im landwirtschaftlichen Betrieb darzustellen wird das \ac{iso}
 	\label{fig:isoBarrelBsp}
 \end{figure}
 
-Die Erkennbarkeit dieses Objektes stellt somit die grundlegende Bedingung der zu bewertenden Algorithmen aus Kapitel \ref{cha:algorithmen} dar.
+Die Erkennbarkeit dieses Objektes stellt somit die grundlegende Anforderung an die zu bewertenden Algorithmen aus Kapitel \ref{cha:algorithmen} dar.
 
 \section{Sensorik}
 \label{sec_sensorik}
@@ -396,16 +396,12 @@ Connected Figures, see \ref{fig:leck_toll}
 \label{cha_ausb}
 \pagenumbering{roman}
 
-\section{Leitfaden zur Erstellung studentischer Arbeiten am IMN}
-\label{sec_Leitfaden}
-\includepdf[pages=-]{Leitfaden-Erstellung-studentischer-Arbeiten-IMN_Version-3.1}
-
 \section{Bilder aus Experimenten mit dem ISO Barrel 18497}
 \label{sec_bildiso}
 
 \begin{figure}[h]
 	\centering
-	\def\svgwidth{0.9\columnwidth}
+	\def\svgwidth{1.0\columnwidth}
 	\import{Abbildungen/}{isoBarrel_zusatz.pdf_tex}
 	\caption{Maße des Barrel 18497}
 	\label{fig:isoBarrelExp}

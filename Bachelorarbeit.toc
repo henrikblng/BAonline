@@ -31,6 +31,5 @@
 \contentsline {section}{\numberline {6.2}Equations}{8}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Tables and Figures}{8}{section.6.3}%
 \contentsline {chapter}{\numberline {A}Anhang}{i}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Leitfaden zur Erstellung studentischer Arbeiten am IMN}{i}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Bilder aus Experimenten mit dem ISO Barrel 18497}{vii}{section.A.2}%
+\contentsline {section}{\numberline {A.1}Bilder aus Experimenten mit dem ISO Barrel 18497}{i}{section.A.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
