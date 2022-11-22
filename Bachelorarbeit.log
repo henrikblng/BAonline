@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  21 NOV 2022 17:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  22 NOV 2022 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1779,7 +1779,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--211
  []
 
 (Abbildungen/isoBarrel_Maße.pdf_tex
-<Abbildungen//isoBarrel_Maße.pdf, id=175, page=1, 506.9915pt x 488.63333pt>
+<Abbildungen//isoBarrel_Maße.pdf, id=177, page=1, 506.9915pt x 488.63333pt>
 File: Abbildungen//isoBarrel_Maße.pdf Graphic file (type pdf)
 <use Abbildungen//isoBarrel_Maße.pdf, page 1>
 Package pdftex.def Info: Abbildungen//isoBarrel_Maße.pdf , page1 used on input
@@ -1795,7 +1795,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--221
  []
 
 (Abbildungen/isoBarrel_Bsp.pdf_tex
-<Abbildungen//isoBarrel_Bsp.pdf, id=181, page=1, 355.23607pt x 225.15666pt>
+<Abbildungen//isoBarrel_Bsp.pdf, id=183, page=1, 355.23607pt x 225.15666pt>
 File: Abbildungen//isoBarrel_Bsp.pdf Graphic file (type pdf)
 <use Abbildungen//isoBarrel_Bsp.pdf, page 1>
 Package pdftex.def Info: Abbildungen//isoBarrel_Bsp.pdf , page1 used on input l
@@ -1833,7 +1833,7 @@ chapter 6.
 LaTeX Warning: Citation 'Winner.2017b' on page 8 undefined on input line 336.
 
 (AbbEinleitung/peter.pdf_tex
-<AbbEinleitung//peter.pdf, id=222, page=1, 284.52756pt x 284.52756pt>
+<AbbEinleitung//peter.pdf, id=224, page=1, 284.52756pt x 284.52756pt>
 File: AbbEinleitung//peter.pdf Graphic file (type pdf)
 <use AbbEinleitung//peter.pdf, page 1>
 Package pdftex.def Info: AbbEinleitung//peter.pdf , page1 used on input line 56
@@ -1858,7 +1858,7 @@ Overfull \vbox (1.76944pt too high) has occurred while \output is active []
 [9 <./AbbEinleitung//peter.pdf>]
 chapter A.
 (Abbildungen/isoBarrel_zusatz.pdf_tex
-<Abbildungen//isoBarrel_zusatz.pdf, id=242, page=1, 555.86975pt x 129.5113pt>
+<Abbildungen//isoBarrel_zusatz.pdf, id=244, page=1, 555.86975pt x 129.5113pt>
 File: Abbildungen//isoBarrel_zusatz.pdf Graphic file (type pdf)
 <use Abbildungen//isoBarrel_zusatz.pdf, page 1>
 Package pdftex.def Info: Abbildungen//isoBarrel_zusatz.pdf , page1 used on inpu
@@ -1869,9 +1869,6 @@ t line 56.
  <./Abbildungen//isoBarrel_zusatz.pdf>] (Bachelorarbeit.aux)
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1887,7 +1884,7 @@ Package logreq Info: Writing requests to 'Bachelorarbeit.run.xml'.
 Here is how much of TeX's memory you used:
  41786 strings out of 475385
  867281 string characters out of 2776434
- 1711471 words of memory out of 3000000
+ 1711476 words of memory out of 3000000
  62417 multiletter control sequences out of 15000+600000
  530701 words of font info for 77 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1911,9 +1908,9 @@ pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmib1
 12.pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
 sbx10.pfb><C:/Users/Henrik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
 lmsy10.pfb>
-Output written on Bachelorarbeit.pdf (18 pages, 1418431 bytes).
+Output written on Bachelorarbeit.pdf (18 pages, 1418826 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
+ 443 PDF objects out of 1000 (max. 8388607)
  66 named destinations out of 1000 (max. 500000)
  309 words of extra memory for PDF output out of 10000 (max. 10000000)
 
